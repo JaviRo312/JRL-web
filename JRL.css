@@ -1,0 +1,26 @@
+@charset "utf-8";
+body {
+  background-color: black;
+}
+header {
+	color: white;
+	font-family: daniel;
+	font-size: 24px;
+	text-align: center
+}
+nav {
+	display: inline-block;
+	position: relative;
+	left: 50%;
+	color: white;
+	font-family: daniel
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
